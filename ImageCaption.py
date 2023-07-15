@@ -1,3 +1,7 @@
+''' This task is for image captioning using a trained model and converting the generated captions to speech '''
+# To download model check jupeter file or referance ...
+# created by Abdelrahman Ibrahim ...
+
 import pickle
 import cv2
 import pyttsx3
