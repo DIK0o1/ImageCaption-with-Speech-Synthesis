@@ -17,5 +17,6 @@ This project utilizes a pre-trained model and tokenizer to generate captions for
 - 
  ## Referance
  
+- https://colab.research.google.com/drive/1sWSXR-Ul5HhET6dvWqWM3kLj8uuDRzcR?usp=sharing
 - https://www.thepythoncode.com/article/image-captioning-with-pytorch-and-transformers-in-python
 - https://huggingface.co/Abdou/vit-swin-base-224-gpt2-image-captioning
